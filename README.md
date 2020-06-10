@@ -6,15 +6,15 @@ These are web apps I developed using React frame work. And it is mainly refering
 
 This is an app for task management. Users can add tasks they want to do and remove tasks if they have finished that. If the client don't which task to do, they can also click "what should I do?" button to randomly chose one thing to do. And this is also responsive. So when you are on labtop or desktop device, it looks like:
 
-![Indecision App on large device](Indecisionapp_large.png)
+![Indecision App on large device](IndecisionApp_large.png)
 
 On mobile device, it will become:
 
-![Indecision App on smal device](Indecision_small.png)
+![Indecision App on smal device](IndecisionApp_small.png)
 
 ### Contents
-* [SetUp](#Setup)
-
+* [Setup](#Setup)
+* [Run the application on localhost server](#Run-the-application-on-localhost-server)
 
 ### Setup
 
